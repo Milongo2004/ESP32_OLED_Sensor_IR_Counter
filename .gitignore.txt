@@ -1,0 +1,19 @@
+# Artefactos de compilación / temporales
+*.bin
+*.hex
+*.elf
+*.eep
+*.map
+*.lst
+*.srec
+*.d
+*.tmp
+.DS_Store
+Thumbs.db
+# Directorios comunes de build
+build*/
+.arduinoIDE/
+# Si usas PlatformIO:
+.pio/
+# Mantén fuera secretos de WiFi, tokens, etc.
+secrets.h
