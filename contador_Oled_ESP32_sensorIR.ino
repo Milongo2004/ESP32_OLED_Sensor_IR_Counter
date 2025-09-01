@@ -1,3 +1,4 @@
+//programa para contar detecciones de objetos por un sensor infrarrojo y enviar a aplicativo web en tiempo real por MQTT
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
